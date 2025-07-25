@@ -1,2 +1,2 @@
 # C_project
-I use C language for my Project.You can check the code and learn new things.....
+"I am using the C language for my project. You can review the code and get new ideas from it."
